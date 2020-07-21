@@ -97,3 +97,9 @@ body {
   width: 48px;
   margin-top: auto;
 }
+
+@media screen and (max-width: 1000px) {
+  .container {
+    grid-template-columns: 1fr;
+  }
+}

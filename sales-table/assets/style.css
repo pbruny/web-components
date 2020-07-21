@@ -57,6 +57,12 @@ header h1 {
   padding: 16px;
   width: 280px;
   padding-left: 32px;
+  outline: none;
+  transition: 0.4s;
+}
+
+.search-area input:focus {
+  border: 2px solid #D36289;
 }
 
 .search-area svg {

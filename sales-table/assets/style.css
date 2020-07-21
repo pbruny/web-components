@@ -147,6 +147,22 @@ table tbody tr td .fa-circle {
   transform: scale(0.5);
 }
 
+table tbody tr.priority-200 .fa-circle {
+  color: #D36289;
+}
+
+table tbody tr.priority-400 .fa-circle {
+  color: #40c587;
+}
+
+table tbody tr.priority-600 .fa-circle {
+  color: #FBFCFF;
+}
+
+table tbody tr.priority-800 .fa-circle {
+  color: #7159c1;
+}
+
 .fa-trash {
   cursor: pointer;
   opacity: 0;

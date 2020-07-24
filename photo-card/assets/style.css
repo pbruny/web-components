@@ -22,7 +22,7 @@ body {
 
 .card-container {
   width: 300px;
-  height: 540px;
+  height: 440px;
   background-color: #fff;
   border-radius: 8px;
   margin: auto;
@@ -31,7 +31,7 @@ body {
 }
 
 .card-image img {
-  height: 300px;
+  height: 220px;
   width: 100%;
   border-radius: 8px 8px 0 0;
   background-size: cover;

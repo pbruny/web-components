@@ -10,3 +10,4 @@ You can check codepen live links below.
 
 * [Blog card or News card](https://codepen.io/pbruny/full/XWXObeM)
 * [Dark mode table design](https://codepen.io/pbruny/full/XWXOdJK)
+* [Purple marketing report card](https://codepen.io/pbruny/full/bGEZmxJ)

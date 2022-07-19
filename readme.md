@@ -14,3 +14,4 @@ You can check codepen live links below.
 * [Dark mode table design](https://codepen.io/pbruny/full/XWXOdJK)
 * [Purple marketing report card](https://codepen.io/pbruny/full/bGEZmxJ)
 * [Animated card borders](https://codepen.io/pbruny/full/bGEXjjQ)
+* [New Year's Countdown](https://codepen.io/pbruny/full/KKoWEmN)
